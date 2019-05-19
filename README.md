@@ -1,5 +1,5 @@
 # todo
-
+Simple todo application that was read from Pro Vuejs2 book
 ## Project setup
 ```
 npm install
